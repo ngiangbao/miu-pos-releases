@@ -71,6 +71,8 @@ Phần mềm không thay chủ quán đăng ký kinh doanh, tính/khấu trừ/n
 
 Vi phạm có thể dẫn tới xử lý hành chính, truy thu, chậm nộp, bồi thường hoặc hình sự nếu đủ yếu tố. Không cam kết dùng app sẽ miễn phạt. Mức phạt/thời hiệu/căn cứ cần kiểm tra tại thời điểm hành vi, không suy từ một ví dụ thành kết luận cho mọi cửa hàng.
 
+Xử phạt thuế/hóa đơn đối chiếu Nghị định 125/2020/NĐ-CP đã được sửa đổi bởi Nghị định 102/2021/NĐ-CP, 310/2025/NĐ-CP và 291/2026/NĐ-CP; có thể tra bản hợp nhất 27/2026/VBHN-NĐ-BTC ngày 27-08-2026. Bản hợp nhất giúp tra cứu, không tạo một nghĩa vụ độc lập. Phân biệt số lượng hóa đơn, chủ thể tổ chức/cá nhân, hành vi, thời điểm và tình tiết trước khi xác định chế tài.
+
 9. Thanh toán, QR và đối soát
 
 App ghi nhận tiền mặt/chuyển khoản và tạo QR theo tài khoản cấu hình; hiện không giữ tiền, mở ví hoặc thực hiện chuyển tiền thay khách. Phân loại hoạt động và yêu cầu cấp phép phải theo thực tế, Nghị định 52/2024/NĐ-CP, đặc biệt Điều 3 và Điều 22; ghi không phải trung gian thanh toán không miễn yêu cầu nếu chức năng thực tế thuộc diện quản lý.
@@ -124,6 +126,8 @@ Chủ quán bảo vệ thiết bị, phiên đăng nhập, quyền nhân viên v
 Điều 23 Luật 91/2025/QH15 quy định thông báo cơ quan chuyên trách chậm nhất 72 giờ từ khi phát hiện hành vi thuộc diện phải thông báo; bên xử lý phải báo kịp thời cho bên kiểm soát/bên kiểm soát và xử lý. Nội dung/thủ tục theo Điều 28 Nghị định 356/2025/NĐ-CP; dữ liệu vị trí/sinh trắc học có quy định riêng tại Điều 29 nếu phát sinh. Không áp dụng mốc này cho mọi yêu cầu người dùng.
 
 Thông báo tách sự thật đã xác minh, phần chưa rõ và biện pháp khắc phục; cập nhật, phối hợp với chủ thể dữ liệu/cơ quan có thẩm quyền khi luật yêu cầu. Tấn công mạng/lỗi bên thứ ba không tự miễn trách nhiệm nếu bên cung cấp vi phạm nghĩa vụ bảo vệ hoặc xử lý chậm.
+
+Rủi ro xử phạt an ninh mạng/dữ liệu cá nhân cần đối chiếu Nghị định 330/2026/NĐ-CP có hiệu lực 19-08-2026 và hành vi thực tế; ngoài tiền phạt có thể có biện pháp bổ sung/khắc phục theo trường hợp. Không coi việc khách đã đồng ý điều khoản là miễn xử phạt hoặc miễn quyền yêu cầu bồi thường.
 
 15. AI, khóa API và chat dùng chung
 
@@ -206,6 +210,15 @@ Xác minh bên cung cấp/mã số thuế; giao kết B2B, SLA và phụ lục d
 Tài liệu không xác nhận các thủ tục đó đã xong, có giấy phép trung gian thanh toán, kết nối hóa đơn thuế, chứng chỉ an toàn, SLA trả phí hoặc hệ thống xin đồng ý hoàn chỉnh. Trước ký hợp đồng giới hạn trách nhiệm, nộp hồ sơ, chuyển dữ liệu hoặc giải quyết vụ việc cụ thể, tham vấn trực tiếp luật sư tại Việt Nam và chuyên gia thuế phù hợp.
 
 NGUỒN CHÍNH THỨC
+Xử phạt thuế/hóa đơn — VBHN 27/2026/VBHN-NĐ-BTC
+https://vanban.chinhphu.vn/?classid=0&docid=219310&pageid=27160
+
+Nghị định 291/2026/NĐ-CP sửa đổi chế tài thuế/hóa đơn
+https://chinhphu.vn/?classid=1&docid=218956&pageid=27160&typegroupid=4
+
+Nghị định 330/2026/NĐ-CP về xử phạt an ninh mạng/dữ liệu
+https://chinhphu.vn/?classid=1&docid=219266&pageid=27160&typegroupid=4
+
 Luật Quản lý thuế 108/2025/QH15
 https://vanban.chinhphu.vn/?classid=1&docid=216541&pageid=27160
 

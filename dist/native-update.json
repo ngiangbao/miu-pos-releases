@@ -1,13 +1,13 @@
 {
   "schema": 1,
-  "version": "1.20.0",
+  "version": "1.20.1",
   "windows": {
-    "url": "https://github.com/ngiangbao/miu-pos-releases/releases/download/v1.20.0/Miu-POS-Windows.exe",
-    "sha256": "d077c3511f3ebbd9386a0d4684d362946d7724721ceefa4f0dc25d2faad51431"
+    "url": "https://github.com/ngiangbao/miu-pos-releases/releases/download/v1.20.1/Miu-POS-Windows.exe",
+    "sha256": "554bbf2c2d2d67760ea0c6b436a12ca07a07cf2e155efc95a41d3fcef7482bee"
   },
   "android": {
-    "url": "https://github.com/ngiangbao/miu-pos-releases/releases/download/v1.20.0/Miu-POS-Android.apk",
-    "sha256": "cf0d8f50c5197b85e59cbb400d18538bd841e425a0315a25331bc7a98d7bff78",
-    "versionCode": 1020000
+    "url": "https://github.com/ngiangbao/miu-pos-releases/releases/download/v1.20.1/Miu-POS-Android.apk",
+    "sha256": "ffdf6651ce21c2348ca81cd4122837d7c7a52257aef390fbedfffe4f733397e3",
+    "versionCode": 1020001
   }
 }

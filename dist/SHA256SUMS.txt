@@ -1,2 +1,2 @@
-d077c3511f3ebbd9386a0d4684d362946d7724721ceefa4f0dc25d2faad51431  Miu-POS-Windows.exe
-cf0d8f50c5197b85e59cbb400d18538bd841e425a0315a25331bc7a98d7bff78  Miu-POS-Android.apk
+554bbf2c2d2d67760ea0c6b436a12ca07a07cf2e155efc95a41d3fcef7482bee  Miu-POS-Windows.exe
+ffdf6651ce21c2348ca81cd4122837d7c7a52257aef390fbedfffe4f733397e3  Miu-POS-Android.apk
